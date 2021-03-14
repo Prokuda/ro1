@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://ro1-tau.vercel.app/"
 languageCode = "en-us"
 title = "Eating in the Age of Dieting"
 theme = "influencer-hugo"
