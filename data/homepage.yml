@@ -97,38 +97,6 @@ chapters:
       content : "Tips on scouting the city and making the most out of your three-month tourist visa."
 
 
-########################## Revews ###########################
-reviews:
-  enable : true
-  title : "What people are saying"
-  review:
-    # review item loop
-    - name : "Barrow Hasi"
-      image : "images/client/test-1.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "five" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-      
-    # review item loop
-    - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "four" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-      
-    # review item loop
-    - name : "Barrow Hasi"
-      image : "images/client/test-1.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "five" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-      
-    # review item loop
-    - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "four" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
 
 #################################### device ################################
